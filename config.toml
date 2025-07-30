@@ -1,0 +1,10 @@
+bind = "127.0.0.1:4833"
+file_dir = "uploads"
+domain = "https://img.osh.gay"
+# You can use anything here really.
+# Make sure the header is sufficiently long.
+authorization = "Bearer Ss1357258369!"
+# Base64, Used for deletion links
+# Must be 28bytes (224bit) long
+# Use e.g. `openssl rand -base64 28` to generate
+secret = "9ivv3GDUNXPAR/wmHC37FzRNyXyMrmf2+vpN7w=="
