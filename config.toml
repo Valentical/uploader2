@@ -3,7 +3,7 @@ file_dir = "uploads"
 domain = "https://img.osh.gay"
 # You can use anything here really.
 # Make sure the header is sufficiently long.
-authorization = "Bearer Ss1357258369!"
+authorization = ""
 # Base64, Used for deletion links
 # Must be 28bytes (224bit) long
 # Use e.g. `openssl rand -base64 28` to generate
